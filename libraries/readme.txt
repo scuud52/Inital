@@ -2,5 +2,9 @@ Pour plus d'information sur l'installation des bibliothèques, regardez: http://w
 
 Ajout de trucs juste pour voir si ça fonctionne coome il faut  parce que sinon ça sers a rien et c'est nul et on perd notre temps alors que je pourrai tellement me tirer l'élastique au lieu de bidouiller du code!
 
+<<<<<<< HEAD
 
 ajout de code encore 3
+=======
+ajout de texte 2
+>>>>>>> a9c96894b5705b3393b256fa6dc406eeedee8612
